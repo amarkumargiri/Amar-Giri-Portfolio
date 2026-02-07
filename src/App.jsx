@@ -243,7 +243,7 @@ function App() {
             <a href="https://www.linkedin.com/in/amar-kumar-giri-83a499278/" className="social-link">
               <Icons.Linkedin className="social-icon" />
             </a>
-            <a href="#" className="social-link">
+            <a href="mailto:amargiri1717@gmail.com" className="social-link">
               <Icons.Mail className="social-icon" />
             </a>
           </div>
