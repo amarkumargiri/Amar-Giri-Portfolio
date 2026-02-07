@@ -179,7 +179,7 @@ function App() {
         <div className="nav-container">
           <div className="nav-content">
             <h1 className="nav-logo">
-              Amar Kumar Giri
+              Amar.
             </h1>
             <div className="nav-links">
               {['Projects', 'Skills', 'Experience', 'Contact'].map((item) => (
@@ -201,10 +201,10 @@ function App() {
         <div className="hero-content animate-fade-in">
           <div className="hero-text">
             <h2 className="hero-title animate-slide-up">
-              Full-Stack Developer
+              Amar Kumar Giri
             </h2>
             <h3 className="hero-subtitle animate-slide-up" style={{animationDelay: '0.2s'}}>
-              Building scalable, real-world web applications
+             Full Stack & Software Developer
             </h3>
           </div>
           
